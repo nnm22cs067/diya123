@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:aquamarine;
+    
+}
+
+header {
+    background-color:black;
+    color: white;
+    text-align:center;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+.profile-section img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 20px;
+}
+
+.profile-section h2 {
+    margin: 0;
+}
+
+.contact-section {
+    margin-top: 30px;
+}
+
+footer {
+    text-align: center;
+    background-color:grey;
+    color:white;
+    padding: 10px;
+}
